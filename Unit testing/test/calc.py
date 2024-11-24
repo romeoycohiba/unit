@@ -29,7 +29,7 @@ def subtract(x,y):
 
 def multiply(x,y):
     """Multiply Function"""
-    return x ** y
+    return x * y
 
 def divide(x,y):
     """Divide Function"""
